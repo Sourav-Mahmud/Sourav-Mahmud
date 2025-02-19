@@ -11,8 +11,7 @@ Skills: HTML / CSS / Javascript
 
 </div>
 
-- 🔭 I’m currently learning frontend development. on [Hablu Programmer](https://www.hablu-programmer.com/)
-
+- 🔭 I’m currently learning frontend development
 - 🌱 I’m currently learning HTML CSS Javascript
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sourav-Mahmud](https://github.com/Sourav-Mahmud)
