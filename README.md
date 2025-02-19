@@ -52,7 +52,7 @@ Skills: HTML / CSS / Javascript
   <br/>
 </a>
 
-![Sourav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sourav-Mahmud&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Sourav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sourav-Mahmud&custom_title=Sourav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
